@@ -12,7 +12,7 @@ class employee{
     void putdata();
 };
 
-void employee::getdata(){
+void employee::getdata(){       // Function Definition 
     cout <<"Enter ID:";
     cin  >> id;
     cout << "Enter the name:";
