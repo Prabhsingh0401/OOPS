@@ -1,15 +1,14 @@
 // program to add two numbers 
 #include<iostream> 
-#include<conio.h>
-Using namespace std;
-Int main ( ) {
-Int a , b , c
-Cout << "Enter the first number";
-Cin >> a;
-Cout << "Enter the second number";
-Cin >> b;
-C = a + b;
-Cout << "Sum" << c;
-Getch( );
-Return 0;
+using namespace std;
+
+int main () {
+    int a , b , c;
+    cout << "Enter the first number : ";
+    cin >> a;
+    cout << "Enter the second number : 1";  
+    cin >> b;
+    c = a+b;
+    cout << "Sum = \n" << c;
+    return 0;
 } 
