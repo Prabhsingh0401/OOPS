@@ -4,6 +4,8 @@
 
 using namespace std;
 
+/*first program of C++*/
+
 int main()
 {
     vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
