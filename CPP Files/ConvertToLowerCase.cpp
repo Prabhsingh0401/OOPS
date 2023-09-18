@@ -1,4 +1,4 @@
-//Program to convert uppercase alphabet to lower case 
+// Program to convert uppercase alphabet to lower case 
 
 #include<iostream>
 #include<conio.h>
