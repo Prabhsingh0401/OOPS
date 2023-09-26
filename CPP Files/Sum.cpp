@@ -1,3 +1,5 @@
+// c++ Program to calculate the sum using function
+
 #include<iostream>
 #include<conio.h>
 
@@ -17,3 +19,4 @@ int main(){
     sum(10,20,30);
     getch();
 }
+

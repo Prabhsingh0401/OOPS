@@ -39,3 +39,4 @@ int main(){
     emp[i].putdata();
     getch();
 }
+
