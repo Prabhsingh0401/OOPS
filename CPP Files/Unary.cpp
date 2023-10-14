@@ -1,4 +1,5 @@
 #include<iostream>
+#include<conio.h>
 
 // Prableen Singh - CSE 3
 
@@ -19,5 +20,5 @@ class Distance {
 int main() {
     Distance d1(9, 10);
     -d1;
-    return 0;
+    getch();
 };
