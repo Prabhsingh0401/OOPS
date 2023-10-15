@@ -17,7 +17,7 @@ class A {
 
 void A::memberfn2()
 {
-    cout << "Member Function Declared\n"
+    cout << "Member Function Declare\n"
          << "Outside the class";
 }
 
