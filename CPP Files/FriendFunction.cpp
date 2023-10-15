@@ -1,10 +1,8 @@
-#include<iostream>
+#include<iostream.h>
 #include<conio.h>
-
-using namespace std;
-
+// Eshaa Bhasin CSE - 3 
+//using namespace std;
 class M2;
-
 class M1
 {
     int x;
@@ -16,7 +14,6 @@ class M1
     }
     friend void multiply(M1,M2);
 };
-
 class M2
 {
     int y;
@@ -28,7 +25,6 @@ class M2
     }
     friend void multiply(M1 , M2);
 };
-
 void multiply(M1 a, M2 b)
 {
     int mul;
